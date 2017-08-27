@@ -1,0 +1,2 @@
+# megacol
+GitHub Pages
